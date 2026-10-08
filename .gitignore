@@ -1,0 +1,17 @@
+# Build output
+Debug/
+Release/
+*.elf
+*.map
+*.list
+*.o
+*.d
+
+# IDE / user-specific files
+.settings/
+*.launch
+.metadata/
+
+# CubeMX leftovers
+*_save
+*.bak
